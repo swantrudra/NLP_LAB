@@ -1,0 +1,5 @@
+text,label,cleaned_text,processed_text,label_encoded
+I love Natural Language Processing!,positive,i love natural language processing,love natural language processing,1
+Machine learning is AMAZING!!!,positive,machine learning is amazing,machine learning amazing,1
+NLP helps computers understand human language,neutral,nlp helps computers understand human language,nlp help computer understand human language,0
+I love AI and Machine Learning,positive,i love ai and machine learning,love ai machine learning,1
